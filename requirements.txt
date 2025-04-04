@@ -1,0 +1,17 @@
+-- Зависимости --
+
+Python 3.8+
+
+pytesseract
+
+requests
+
+gradio
+
+pdf2image
+
+pandas
+
+openpyxl (для Excel экспорта)
+
+poppler (для работы pdf2image)
